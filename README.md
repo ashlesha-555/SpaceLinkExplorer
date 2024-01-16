@@ -8,4 +8,4 @@ This C program implements Dijkstra's algorithm to find the shortest path from Ea
 - Struct to store information about celestial objects.
 - User interaction for input and jokes.
 
-![Alt Text]((https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BsYW5ldC1vcmRlci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==)https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BsYW5ldC1vcmRlci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==)
+![Alt Text](https://media.hswstatic.com/)
